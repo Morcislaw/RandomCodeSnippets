@@ -31,6 +31,4 @@ function purge() {
 		  document.getElementById(pola[index]).value = null;
 	   }
 	}
-	console.log(a);
-	console.log(b);
 }
